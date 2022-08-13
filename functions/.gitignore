@@ -1,0 +1,9 @@
+node_modules/
+/firebase-adminsdk.json
+
+/.env.dev
+/.env.production
+
+/src/helper/_AppConfigGenerated.js
+
+/credentials-sheet.json
